@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Part 1 - Machine Learning with SQL Server ML Services",
-    "\\Part 2 - Unsupervised",
-    "\\Part 3 - Regression",
-    "\\Part 4 - Classification"
+    "\\Part 2 - Data preparation",
+    "\\Part 3 - Modelling"
   ],
   "PreviewInSolutionExplorer": false
 }
